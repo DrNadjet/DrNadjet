@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">.   Ai Student</h2>
+<h3 align="left">- 🎓 Computer Science student, specializing in Artificial Intelligence  <br>- 🌱 Currently learning Web Development (Frontend & Backend)  <br>- 🎨 Exploring UI/UX Design  <br>- 💻 Passionate about coding, problem solving, and building projects</h3>
 
 ###
 
@@ -26,6 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
 
 ###
@@ -36,6 +40,9 @@
   </a>
   <a href="https://www.linkedin.com/in/nadjet-bouldrouah-4457aa34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/vZpk9uM2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
@@ -50,8 +57,16 @@
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrNadjet/DrNadjet/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DrNadjet/DrNadjet/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DrNadjet/DrNadjet/output/pacman-contribution-graph.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/DrNadjet/DrNadjet/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DrNadjet.DrNadjet&"  />
+</div>
 
 ###
