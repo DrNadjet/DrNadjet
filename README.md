@@ -10,7 +10,15 @@
 
 ###
 
-<h3 align="left">- 🎓 Computer Science student, specializing in Artificial Intelligence  <br>- 🌱 Currently learning Web Development (Frontend & Backend)  <br>- 🎨 Exploring UI/UX Design  <br>- 💻 Passionate about coding, problem solving, and building projects</h3>
+<h2 align="left">👩‍💻 About Me  :</h2>
+
+###
+
+<h4 align="left">- 🎓 Computer Science student, specializing in Artificial Intelligence  <br>- 🌱 Currently learning Web Development (Frontend & Backend)  <br>- 🎨 Exploring UI/UX Design  <br>- 💻 Passionate about coding, problem solving, and building projects</h4>
+
+###
+
+<h2 align="left">🛠️ Tech Stack  :</h2>
 
 ###
 
@@ -31,6 +39,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
+
+###
+
+<h2 align="left">📫 Connect with Me  :</h2>
 
 ###
 
