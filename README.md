@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="336" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="336" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY2OWg4b2U0aTA0MjNkbW16cTRrd3g3c3p3MzA4ZHRkaDUwdWpjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
 </div>
 
 ###
